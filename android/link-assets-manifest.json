@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FontBold.otf",
+      "sha1": "72c158fe0660d50e1ebdaefea76d36ec569c85ec"
+    },
+    {
+      "path": "src/assets/fonts/FontLight.otf",
+      "sha1": "477abdbf0be717c207b2f9b54d65c0e4674f1ea3"
+    },
+    {
+      "path": "src/assets/fonts/SpaceMono-Regular.ttf",
+      "sha1": "fae3a5a43b50e0408fd61e14383d94a023d332b0"
+    }
+  ]
+}
